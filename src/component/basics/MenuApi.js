@@ -71,5 +71,22 @@ const Menu = [
         description:"desc",
         price:'₹49',
     },
+    {
+        id:11,
+        image:"images/veggie.jpg",
+        name:"veggie",
+        category:"breakfast",
+        description:"desc",
+        price:'₹49',
+    },
+    {
+        id:12,
+        image:"images/veggie.jpg",
+        name:"veggie",
+        category:"breakfast",
+        description:"desc",
+        price:'₹49',
+    },
+    
 ]
 export default Menu
