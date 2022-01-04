@@ -7,7 +7,7 @@
   
   html {
     background: #faf7f2;
-    background-image: url(https://st2.depositphotos.com/4072575/10163/i/950/depositphotos_101639578-stock-photo-high-quality-white-paper-texture.jpg);
+    background-image: url(https://img.freepik.com/free-photo/black-texture_1205-327.jpg?size=626&ext=jpg);
     box-sizing: border-box;
     font-family: "Lato", sans-serif;
     font-size: 14px;
@@ -27,12 +27,12 @@
   .main-card--container {
     display: grid;
     grid-template-columns: repeat(3, minmax(300px, 500px));
-    grid-gap: 50px;
+    grid-gap: 2px;
     justify-content: space-around;
   }
   
   .card-container {
-    margin: 25px auto 0;
+    margin: 2px auto 0;
     position: relative;
     display: grid;
     grid-template-columns: 1fr;
@@ -46,10 +46,10 @@
   }
   
   .card {
-    background-color: #fff;
-    padding: 30px;
+    background-color: rgba(49, 22, 66, 0.753);
+    padding: 5px;
     position: relative;
-    box-shadow: 0 0 5px rgba(75, 75, 75, 0.07);
+    box-shadow: 0 0 5px rgba(75, 75, 75, 0.493);
     z-index: 1;
   }
   
@@ -58,7 +58,7 @@
   }
   
   .card-number {
-    margin-top: 15px;
+    margin-top: 5px;
   }
   
   .card-circle {
@@ -76,16 +76,16 @@
     display: block;
     font-size: 12px;
     letter-spacing: 0.5px;
-    margin: 15px 0 0;
+    margin: 5px 0 0;
     text-transform: uppercase;
   }
   
   .card-title {
     font-family: "Cormorant Garamond", serif;
-    font-size: 60px;
-    font-weight: 300;
-    line-height: 60px;
-    margin: 10px 0;
+    font-size: 30px;
+    font-weight: 200;
+    line-height: 20px;
+    margin: 8px 0;
     text-transform: capitalize;
   }
   
@@ -132,7 +132,8 @@
   
   .card-media {
     max-width: 100%;
-    height: auto;
+    height: 400px;
+    width: 700px;
   }
   
   .card-shadow {
@@ -149,7 +150,7 @@
     .main-card--cointainer {
       display: grid;
       grid-template-columns: repeat(1, minmax(200px, 500px));
-      grid-gap: 50px;
+      grid-gap: 100px;
       justify-content: space-around;
     }
   }
@@ -157,7 +158,8 @@
   /* ---------- Button styles ------------------ */
   
   .navbar {
-    padding-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
     text-align: center;
   }
   
