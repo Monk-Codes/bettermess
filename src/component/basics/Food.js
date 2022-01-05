@@ -30,6 +30,7 @@ const Food = () => {
         <>
             <Navbar filterItem={filterItem} menuList={menuList} />
             <MenuCard menuData={menuData} />
+            
         </>
     );
 };

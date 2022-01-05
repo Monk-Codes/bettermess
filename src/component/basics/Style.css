@@ -156,10 +156,35 @@
   }
   
   /* ---------- Button styles ------------------ */
+  .logo{
+    position: absolute;
+    margin-top: 16px;
+    border-radius: 10px;
+    height: auto;
+    width: 60%;
+  }
+  .logo-b{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 28px;
+    color: silver;
+    font-family: fantasy;
+    font-size: 14px;
+
+  }
+  .footer {
+    position: relative;
+    left: 2;
+    bottom: 2;
+    width: 100%;
+    background-color: rebeccapurple;
+    color: silver;
+    text-align: end;
+ }
   
   .navbar {
-    padding-top: 20px;
-    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 8px;
     text-align: center;
   }
   
@@ -177,7 +202,7 @@
     border: none;
     /* min-width: 6rem; */
     padding: 1.5rem 3rem;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(217, 224, 241, 0.925);
     cursor: pointer;
     margin: 0;
     font-size: 17px;
