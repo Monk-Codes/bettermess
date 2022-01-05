@@ -1,6 +1,6 @@
 {
   "name": "bettermesh",
-  "homepage": "https://github.com/Monk-Codes/bettermess",
+  "homepage": "https://monk-codes.github.io/bettermess",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
