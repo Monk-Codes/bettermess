@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Monk-Codes/bettermess/static/css/main.e87dc2c1.css",
-    "main.js": "/Monk-Codes/bettermess/static/js/main.711a7e9c.js",
-    "index.html": "/Monk-Codes/bettermess/index.html",
-    "main.e87dc2c1.css.map": "/Monk-Codes/bettermess/static/css/main.e87dc2c1.css.map",
-    "main.711a7e9c.js.map": "/Monk-Codes/bettermess/static/js/main.711a7e9c.js.map"
+    "main.css": "/bettermess/static/css/main.e87dc2c1.css",
+    "main.js": "/bettermess/static/js/main.711a7e9c.js",
+    "index.html": "/bettermess/index.html",
+    "main.e87dc2c1.css.map": "/bettermess/static/css/main.e87dc2c1.css.map",
+    "main.711a7e9c.js.map": "/bettermess/static/js/main.711a7e9c.js.map"
   },
   "entrypoints": [
     "static/css/main.e87dc2c1.css",
